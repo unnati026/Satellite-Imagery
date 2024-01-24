@@ -18,7 +18,7 @@ This repository contains code for a deep learning model to classify satellite im
 
 ## Repository Structure
 
-- **`README.md`**: This documentation file providing an overview of the repository and instructions on running the code.
+- **`README.md`**: This documentation file providing an overview of the repository.
 
 - **`Satellite_Imagery_Classification.ipynb`**: Jupyter Notebook containing the main code for data preprocessing, model building, training, and evaluation.
 
