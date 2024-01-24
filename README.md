@@ -1,4 +1,4 @@
-# Satellite-Imagery Repository
+# Deforestation Modeling using Satellite Imagery and Deep Learning
 
 This repository contains code for a deep learning model to classify satellite imagery into atmospheric and land-related categories. The model is designed to predict atmospheric conditions such as clear, partly cloudy, cloudy, and haze, as well as land-related features like primary rainforest, water bodies, habitation areas, agriculture, roads, cultivation, bare ground, slash-and-burn, selective logging, blooming, blow-down, conventional mines, and artisanal mines.
 
